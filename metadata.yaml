@@ -1,0 +1,44 @@
+_repo: Dr-Martin-Luther-s-Deutsche-Geistliche-Lieder-The-Hymns-of-Martin-Luther-Set-to-Their-Original-__417
+contributor:
+  creator:
+    editors:
+    - agent_name: Allen, Nathan H. (Nathan Hale)
+      alias: Allen, N. H. (Nathan Hale)
+      birthdate: 1848
+      deathdate: 1925
+      gutenberg_agent_id: '233'
+      url: http://www.gutenberg.org/2009/agents/233
+    - agent_name: Bacon, Leonard Woolsey
+      alias: Bacon, L. W. (Leonard Woolsey)
+      birthdate: 1830
+      deathdate: 1907
+      gutenberg_agent_id: '232'
+      url: http://www.gutenberg.org/2009/agents/232
+      wikipedia: http://en.wikipedia.org/wiki/Leonard_Woolsey_Bacon
+creator:
+  author:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '417'
+language:
+- en
+- de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Lutheran Church -- Hymns'
+- !lcsh 'Hymns, German'
+title: "Dr. Martin Luther's Deutsche Geistliche Lieder\r\nThe Hymns of Martin Luther\
+  \ Set to Their Original Melodies, With an English Version"
+url: http://www.gutenberg.org/ebooks/417
