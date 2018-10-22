@@ -1,5 +1,5 @@
 _repo: Dr-Martin-Luther-s-Deutsche-Geistliche-Lieder-The-Hymns-of-Martin-Luther-Set-to-Their-Original-__417
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editors:
@@ -45,6 +45,7 @@ subjects:
 - !lcc 'BX'
 - !lcsh 'Lutheran Church -- Hymns'
 - !lcsh 'Hymns, German'
+- GITenberg
 title: "Dr. Martin Luther's Deutsche Geistliche Lieder\r\nThe Hymns of Martin Luther\
   \ Set to Their Original Melodies, With an English Version"
 url: http://www.gutenberg.org/ebooks/417
